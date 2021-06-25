@@ -19,13 +19,13 @@
 <img src="./calculator.png" alt=" login img"> <br>
 
 
-> Este projeto teve por objetivo colocar em pratica novas habilidades no HTML e CSS.
+> Este projeto teve por objetivo colocar em pratica novas habilidades no HTML e CSS e Javascript.
 
 ### Ajustes e melhorias
 
-O projeto apresenta a tela de abertura de um app.
+O projeto apresenta uma calculadora.
 
-- [x] Adicionar novas melhorias de acordo com o aprendizado.
+- O projeto esta finalizado.
 
 
 
@@ -42,12 +42,21 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
           <b> Silvio Lopes</b>
         </sub>
       </a>
+    </td>  
+    <td align="center">
+      <a href="#">
+        <img src="Rodolfomori.png" width="100px;" alt="Foto do Rodolfo no GitHub"/><br>
+        <sub>
+          <b> Rodolfo Mori</b>
+        </sub>
+      </a>
     </td>   
+
   </tr>
 </table>
 
 
 
 
-[⬆ Voltar ao topo](#atro)<br>
+[⬆ Voltar ao topo](#calculator)<br>
 
